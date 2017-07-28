@@ -1,10 +1,10 @@
-package id.geekgarden.retrofitlogin.adapter;
+package id.geekgarden.retrofitlogin_dev.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import id.geekgarden.retrofitlogin.R;
+import id.geekgarden.retrofitlogin_dev.R;
 
 /**
  * Created by GeekGarden on 18/07/2017.

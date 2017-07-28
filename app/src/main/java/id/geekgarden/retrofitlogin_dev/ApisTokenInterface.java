@@ -1,8 +1,7 @@
-package id.geekgarden.retrofitlogin;
+package id.geekgarden.retrofitlogin_dev;
 
-import id.geekgarden.retrofitlogin.model.ResponHotel;
-import id.geekgarden.retrofitlogin.model.TokenRespons;
-import java.util.Date;
+import id.geekgarden.retrofitlogin_dev.model.ResponHotel;
+import id.geekgarden.retrofitlogin_dev.model.TokenRespons;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Query;

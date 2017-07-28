@@ -1,4 +1,4 @@
-package id.geekgarden.retrofitlogin.adapter;
+package id.geekgarden.retrofitlogin_dev.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.bumptech.glide.Glide;
-import id.geekgarden.retrofitlogin.R;
-import id.geekgarden.retrofitlogin.model.Result;
+import id.geekgarden.retrofitlogin_dev.R;
+import id.geekgarden.retrofitlogin_dev.model.Result;
 import java.util.List;
 
 /**

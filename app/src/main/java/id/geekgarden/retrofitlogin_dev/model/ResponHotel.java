@@ -1,5 +1,5 @@
 
-package id.geekgarden.retrofitlogin.model;
+package id.geekgarden.retrofitlogin_dev.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
