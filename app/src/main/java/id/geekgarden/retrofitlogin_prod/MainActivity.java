@@ -1,4 +1,4 @@
-package id.geekgarden.retrofitlogin_dev;
+package id.geekgarden.retrofitlogin_prod;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,10 +9,10 @@ import android.util.Log;
 import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import id.geekgarden.retrofitlogin_dev.model.Diagnostic;
-import id.geekgarden.retrofitlogin_dev.model.ResponHotel;
-import id.geekgarden.retrofitlogin_dev.model.Result;
-import id.geekgarden.retrofitlogin_dev.model.TokenRespons;
+import id.geekgarden.retrofitlogin_prod.model.Diagnostic;
+import id.geekgarden.retrofitlogin_prod.model.ResponHotel;
+import id.geekgarden.retrofitlogin_prod.model.Result;
+import id.geekgarden.retrofitlogin_prod.model.TokenRespons;
 import java.util.ArrayList;
 import retrofit2.Call;
 import retrofit2.Callback;
